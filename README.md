@@ -15,14 +15,6 @@ Currently exploring aerodynamics and autonomous flight control systems.
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=yourusername&theme=dark)
-
----
-
 ## 🔗 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/aungkozin1)
