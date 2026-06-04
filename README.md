@@ -1,4 +1,4 @@
-# Hi, I'm Aung 👋
+# Hi, I'm Aung
 
 I'm an aerospace engineering student at UC Berkeley passionate about 
 VTOL systems, autonomous drones, and aerodynamics.
@@ -7,7 +7,7 @@ Currently exploring aerodynamics and autonomous flight control systems.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ![SolidWorks](https://img.shields.io/badge/-SolidWorks-005386?style=flat&logo=solidworks&logoColor=white)
 ![CATIA](https://img.shields.io/badge/-CATIA-1F6B3A?style=flat&logoColor=white)
@@ -16,6 +16,6 @@ Currently exploring aerodynamics and autonomous flight control systems.
 
 ---
 
-## 🔗 Connect with me
+## Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/aungkozin1)
