@@ -19,3 +19,6 @@ Currently exploring aerodynamics and autonomous flight control systems.
 ## Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/aungkozin1)
+
+## Badges
+[![3D Innovator - CATIA Associate](<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="a1494914-7e7b-4ebf-9d9f-81aeec20c14f" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>)]
